@@ -1,6 +1,6 @@
-# up206a-Eisha
+# Introduction to GIS and Spatial Data Science
 
-## Profile
+## My name is Eisha Shakeel and Githubprofile name is Etha96
 
 **Eisha Shakeel**, 28, a first-year MURP student from _Karachi, Pakistan,_ specializing in Transportation Policy Planning and Climate, Environment, Society. Passionate about pedestrian safety, unhoused populations, mobility, agency, and urban politics in the global south.
 
